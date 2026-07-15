@@ -1,0 +1,10 @@
+﻿Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Bug,DR-1,10033,Sign Up -> Username accepts one digit values ,,,Ismail Ibrahim,712020:512fed00-5991-4c46-a89a-252453d4e436,Medium,Done,Done,12/Jul/26 5:33 PM,14/Jul/26 7:04 PM,
+Bug,DR-4,10069,Register ---> Text Link not redirecting to registration page,,,Ismail Ibrahim,712020:512fed00-5991-4c46-a89a-252453d4e436,Highest,Testing,,14/Jul/26 7:15 PM,15/Jul/26 4:48 PM,
+Bug,DR-5,10070,User is able to select and proceed with a past date when booking a flight,,,Ismail Ibrahim,712020:512fed00-5991-4c46-a89a-252453d4e436,Highest,Testing,,14/Jul/26 7:39 PM,15/Jul/26 4:47 PM,
+Bug,DR-6,10103,System allows users to search for flights where departure and destination are the same city,,,Ismail Ibrahim,712020:512fed00-5991-4c46-a89a-252453d4e436,Medium,Testing,,14/Jul/26 9:36 PM,15/Jul/26 4:48 PM,
+Bug,DR-7,10104,System allows return date to be earlier than the departure date,,,Ismail Ibrahim,712020:512fed00-5991-4c46-a89a-252453d4e436,High,Testing,,14/Jul/26 9:40 PM,15/Jul/26 4:48 PM,
+Bug,DR-8,10137,User can proceed to Passenger Details page without selecting a flight,,,Ismail Ibrahim,712020:512fed00-5991-4c46-a89a-252453d4e436,High,Testing,,15/Jul/26 10:16 AM,15/Jul/26 4:49 PM,
+Bug,DR-9,10170,"""Pay Now"" button processes payment without requiring credit card details",,,Ismail Ibrahim,712020:512fed00-5991-4c46-a89a-252453d4e436,Highest,Testing,,15/Jul/26 3:52 PM,15/Jul/26 4:48 PM,
+Bug,DR-10,10203,System generates a valid Confirmation Number for invalid or manipulated flight bookings,,,Ismail Ibrahim,712020:512fed00-5991-4c46-a89a-252453d4e436,Highest,Testing,,15/Jul/26 4:47 PM,15/Jul/26 4:47 PM,
+Bug,DR-11,10204,"Credit card fields accept invalid character formats (letters in card number, numbers in cardholder name)",,,Ismail Ibrahim,712020:512fed00-5991-4c46-a89a-252453d4e436,Highest,Testing,,15/Jul/26 4:55 PM,15/Jul/26 4:56 PM,
